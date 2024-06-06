@@ -17,7 +17,11 @@ Programa de computador são algoritmos executados pelo computador -> O computado
 Para se fazer um programa:
  - Uma linguagem de programação
  - Uma IDE
- - Um compulador
+ - Um compilador
  - Um gerador de código ou máquina virtual
 -----------------------------------------------------------------------------------
 Linguagem de programação - Conjunto de refras léxicas (ortograficas) e sintáticas (gramaticais) para se escrever programas.
+
+Truncar = Arrendondar 
+
+Casting = Conversão explicita de um tipo para outro;
