@@ -32,9 +32,12 @@ Corresponde a uma coleção de dados de tamanho fixo, indexada, unidimensional e
 - Unidimencional: Uma dimensão;
 - Homogenea: todos os dados são do mesmo tipo
 
-v[] = [Maria, João, Carlos, Ana, Joaquim]
-v[0] = Maria
-v[1] = João
+
+string[] v;
+v = new string[5];
+v = [Maria, João, Carlos, Ana, Joaquim];
+v[0] = Maria;
+v[1] = João;
 ...
 
 O que foi estudado:
