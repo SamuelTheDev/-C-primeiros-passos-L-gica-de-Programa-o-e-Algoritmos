@@ -25,3 +25,20 @@ Linguagem de programação - Conjunto de refras léxicas (ortograficas) e sintá
 Truncar = Arrendondar 
 
 Casting = Conversão explicita de um tipo para outro;
+
+Vetores: 
+Corresponde a uma coleção de dados de tamanho fixo, indexada, unidimensional e homogenea.
+- Indexada: Os elementos são acessados por meio de indices;
+- Unidimencional: Uma dimensão;
+- Homogenea: todos os dados são do mesmo tipo
+
+v[] = [Maria, João, Carlos, Ana, Joaquim]
+v[0] = Maria
+v[1] = João
+...
+
+O que foi estudado:
+- Variáveis e tipos básicos
+- Estrutura sequencial e operações
+- Estrutura condicional (if e switch/case)
+- Estrutura repetitiva (for, foreach, while e do/while) 
